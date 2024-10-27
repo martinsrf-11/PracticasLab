@@ -1,0 +1,3 @@
+Serial de dinero: https://www.tinkercad.com/things/5VsEAEzPEWP-dinero-en-serial
+Imprimir mensajes en LCD: https://www.tinkercad.com/things/6e4PHyo6NxX-mensajes-en-lcd
+Calcular suma de números amigables: https://www.tinkercad.com/things/g6QuRIVT4Yp-numeros-amigables
